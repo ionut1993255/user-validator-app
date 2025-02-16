@@ -6,7 +6,7 @@ The client can add a single user each time which will be later listed below the 
 
 This could be integrated in future projects.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://user-validator-application.netlify.app/
 
